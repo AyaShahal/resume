@@ -14,7 +14,7 @@ chemist
 ## Skills
 + commnuication
 + Self-motivation
-+ Analtyical techniques : GC , NMR , MS , Titation , HPLC
++ Analtyical techniques : GC , NMR , MS , HPLC
 + ChemDraw 1D , ChemDraw 3D
 ## **Languages**
 + Arabic (Native)
